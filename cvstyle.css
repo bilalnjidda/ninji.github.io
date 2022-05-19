@@ -1,0 +1,42 @@
+body{
+    background-color:white;
+}
+.container{
+    background-color: white;
+    width: 1200px;
+    height: 1200px;
+    margin-left: 250px;
+}
+label{
+    padding-left: 60px;
+}
+h2{
+    padding-left: 20px;
+}
+li{
+    padding-left: 40px;
+    padding-bottom: 10px;
+    list-style:none ;
+}
+p:before{
+    content: "\2764";
+    color: white;
+    padding-left: 40px;
+
+}
+.left{
+    width: 500px;
+    height: 1200px;
+    color: white;
+    background-color: rgb(3, 3, 39);
+    float: left;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.right{
+    width: 650px;
+    height: 1200px;
+    float: right;
+}
